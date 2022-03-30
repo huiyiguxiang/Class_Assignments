@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nv5rlsI8/948frP4nNPkXOVTA3U/V2EpvnU1c1STb5q8ZBQ0yZ9Z19s0a4GLIIP5y/HOc/1NZbKjdC85FM2P4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dongt\\source\\repos\\321HW2\\321HW2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dongt\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

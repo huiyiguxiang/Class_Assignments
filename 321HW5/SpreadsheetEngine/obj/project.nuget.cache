@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nK3ZT56/MMxXbl7kwvuZkxSsIJw8F4p4l/gDla+Eyes76s0zWW/XDUKQ9aWv3ePmSektHo9zkcO2TtrVneFAyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dongt\\source\\repos\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dongt\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
